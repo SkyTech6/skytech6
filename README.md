@@ -9,7 +9,7 @@ I also run [r/INAT](https://www.reddit.com/r/INAT), which I believe is the web's
 ## Published Games / Other Stuffs
 [Train Your Minibot on Steam](https://store.steampowered.com/app/713740/Train_Your_Minibot/) - 3D Puzzle Platformer
 
-[Planet Dysphoria](https://fishagon.itch.io/planet-dysphoria) - First-Person Puzzle/Adventure Game Jam Entry, Featured in PCGamer
+[Planet Dysphoria on Itch.io (FREE)](https://fishagon.itch.io/planet-dysphoria) - First-Person Puzzle/Adventure Game Jam Entry, Featured in PCGamer
 
 [Itchworks on Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/itchworks-81566) - Account Linking / DRM Solution for Itch.io App
 
