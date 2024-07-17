@@ -20,4 +20,4 @@ I also run [r/INAT](https://www.reddit.com/r/INAT), which I believe is the web's
 [CrimsonMods](https://github.com/CrimsonMods) - Open Source Mods for V Rising
 
 ## Articles / Blog Posts
-[2 Games in 2 Months with a Stranger from Reddit](https://gamasutra.com/blogs/SkyCopeland/20170918/305868/2_Games_in_2_Months_with_a_Stranger_from_Reddit.php)
+[2 Games in 2 Months with a Stranger from Reddit](https://www.gamedeveloper.com/production/2-games-in-2-months-with-a-stranger-from-reddit)
