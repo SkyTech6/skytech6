@@ -11,6 +11,8 @@ I also run [r/INAT](https://www.reddit.com/r/INAT), which I believe is the web's
 
 [Boring Movies on Steam](https://store.steampowered.com/app/1792500/Boring_Movies/) - Movie Themed Online Party Game
 
+[DexSweeper on Itch.io](https://fishagon.itch.io/dexsweeper) - Playdate Crank Powered Minesweeper Variant
+
 [Planet Dysphoria on Itch.io (FREE)](https://fishagon.itch.io/planet-dysphoria) - First-Person Puzzle/Adventure Game Jam Entry, Featured in PCGamer
 
 [Itchworks on Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/itchworks-81566) - Account Linking / DRM Solution for Itch.io App
