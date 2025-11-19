@@ -11,9 +11,9 @@ I also run [r/INAT](https://www.reddit.com/r/INAT), which I believe is the web's
 
 [Boring Movies on Steam](https://store.steampowered.com/app/1792500/Boring_Movies/) - Movie Themed Online Party Game
 
-[git gud on Steam](https://store.steampowered.com/app/1490570/git_gud/)
+[git gud on Steam](https://store.steampowered.com/app/1490570/git_gud/) - Git Educational Challenge Game
 
-[DexSweeper on Itch.io](https://fishagon.itch.io/dexsweeper) - Playdate Crank Powered Minesweeper Variant
+[DexSweeper on Itch.io](https://fishagon.itch.io/dexsweeper) [Playdate](https://play.date/games/dexsweeper/) [Steam](https://store.steampowered.com/app/3819510/DexSweeper/) - Playdate Crank Powered Minesweeper Variant
 
 [Planet Dysphoria on Itch.io (FREE)](https://fishagon.itch.io/planet-dysphoria) - First-Person Puzzle/Adventure Game Jam Entry, Featured in PCGamer
 
