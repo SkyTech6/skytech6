@@ -6,7 +6,7 @@ I have a solo indie studio called [Fishagon LLC](https://www.fishagon.com). I ma
 
 I also run [r/INAT](https://www.reddit.com/r/INAT), which I believe is the web's largest gamedev collaborative search board?
 
-## Published Games / Other Stuffs
+## Commercial Games
 [Train Your Minibot on Steam](https://store.steampowered.com/app/713740/Train_Your_Minibot/) - 3D Puzzle Platformer
 
 [Boring Movies on Steam](https://store.steampowered.com/app/1792500/Boring_Movies/) - Movie Themed Online Party Game
@@ -14,6 +14,10 @@ I also run [r/INAT](https://www.reddit.com/r/INAT), which I believe is the web's
 [git gud on Steam](https://store.steampowered.com/app/1490570/git_gud/) - Git Educational Challenge Game
 
 DexSweeper on [Itch.io](https://fishagon.itch.io/dexsweeper), [Playdate](https://play.date/games/dexsweeper/), & [Steam](https://store.steampowered.com/app/3819510/DexSweeper/) - Playdate Crank Powered Minesweeper Variant
+
+[Vice Versa](https://store.steampowered.com/app/4078670/Vice_Versa/) - Party Logic Card Game
+
+## Other Stuffs
 
 [Planet Dysphoria on Itch.io (FREE)](https://fishagon.itch.io/planet-dysphoria) - First-Person Puzzle/Adventure Game Jam Entry, Featured in PCGamer
 
