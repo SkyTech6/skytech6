@@ -7,15 +7,19 @@ I have a solo indie studio called [Fishagon LLC](https://www.fishagon.com). I ma
 I also run [r/INAT](https://www.reddit.com/r/INAT), which I believe is the web's largest gamedev collaborative search board?
 
 ## Commercial Games
+[Zyndeck VX](https://store.steampowered.com/app/2464060/ZYNDECK_VX_Card_Battler/) - Grid-based Card Battler JRPG
+
+[git gud on Steam](https://store.steampowered.com/app/1490570/git_gud/) - Git Educational Challenge Game
+
 [Train Your Minibot on Steam](https://store.steampowered.com/app/713740/Train_Your_Minibot/) - 3D Puzzle Platformer
 
 [Boring Movies on Steam](https://store.steampowered.com/app/1792500/Boring_Movies/) - Movie Themed Online Party Game
 
-[git gud on Steam](https://store.steampowered.com/app/1490570/git_gud/) - Git Educational Challenge Game
-
 DexSweeper on [Itch.io](https://fishagon.itch.io/dexsweeper), [Playdate](https://play.date/games/dexsweeper/), & [Steam](https://store.steampowered.com/app/3819510/DexSweeper/) - Playdate Crank Powered Minesweeper Variant
 
 [Vice Versa](https://store.steampowered.com/app/4078670/Vice_Versa/) - Party Logic Card Game
+
+[OXO](https://fishagon.itch.io/oxo) - Falling Block Puzzle Game for GameBoy Color
 
 ## Other Stuffs
 
