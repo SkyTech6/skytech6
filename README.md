@@ -27,5 +27,7 @@ DexSweeper on [Itch.io](https://fishagon.itch.io/dexsweeper), [Playdate](https:/
 
 [CrimsonMods](https://github.com/CrimsonMods) - Open Source Mods for V Rising
 
+[GB#](https://github.com/SkyTech6/GBSharp) - A statically compiled, hardware-aware C# development environment for the Game Boy & Game Boy Color.
+
 ## Articles / Blog Posts
 [2 Games in 2 Months with a Stranger from Reddit](https://www.gamedeveloper.com/production/2-games-in-2-months-with-a-stranger-from-reddit)
